@@ -171,6 +171,10 @@ PAGE: CONTACT
   background-image: url('../img/twitter.png')
 }
 
+.contact-info li.facebook a {
+  background-image: url('../img/facebook.png')
+}
+
 
 /************
 COLORS
@@ -212,7 +216,3 @@ nav a, nav a:visited {
 nav a.selected, nav a:hover {
   color: #32673f;
 }
-
-
-
-
