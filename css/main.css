@@ -3,7 +3,7 @@ GENERAL
 ************/
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Futura, sans-serif;
 }
 
 #wrapper {
@@ -42,7 +42,6 @@ header {
 }
 
 h1 {
-  font-family: 'Changa One', sans-serif;
   margin: 15px 0;
   font-size: 1.75em;
   font-weight: normal;
@@ -50,7 +49,7 @@ h1 {
 }
 
 h2 {
-  font-size: 0.5em;
+  font-size: 1em;
   margin: -5px 0 0;
   font-weight: normal;
 }
@@ -159,20 +158,24 @@ PAGE: CONTACT
   margin: 0 0 10px;
 }
 
-.contact-info li.phone a {
-  background-image: url('../img/phone.png')
+.contact-info li.mail a {
+  background-image: url('../img/gmail.png')
 }
 
-.contact-info li.mail a {
-  background-image: url('../img/mail.png')
+.contact-info li.github a {
+  background-image: url('../img/github.png')
+}
+
+.contact-info li.linkedin a {
+  background-image: url('../img/linkedin-blue.png')
 }
 
 .contact-info li.twitter a {
-  background-image: url('../img/twitter.png')
+  background-image: url('../img/twitter-blue.png')
 }
 
 .contact-info li.facebook a {
-  background-image: url('../img/facebook.png')
+  background-image: url('../img/facebook-blue.png')
 }
 
 
