@@ -5,12 +5,12 @@
   ************/
 
   #primary {
-    width: 50%;
+    width: 60%;
     float: left;
   }
 
   #secondary {
-    width: 40%;
+    width: 30%;
     float: right;
   }
 
@@ -62,7 +62,7 @@
   }
 
   h2 {
-    font-size: 0.825em;
+    font-size: 1em;
     margin-bottom: 20px;
   }
 
